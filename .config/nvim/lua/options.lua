@@ -10,4 +10,6 @@ vim.o.softtabstop = 0
 
 vim.o.autoindent = true
 
+vim.o.colorcolumn = "80"
+
 vim.o.signcolumn = 'yes'
